@@ -1,0 +1,17 @@
+p {
+  color: blue;
+  text-transform: capitalize;
+  font-weight: 100;
+  background-color: aqua;
+  padding: 50px;
+}
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+  color: brown;
+}
+li {
+  font-weight: 100;
+  font-weight: bolder;
+  text-transform: capitalize;
+}
